@@ -2,7 +2,7 @@ package DayOne;
 
 public class Elf {
 
-    private int Calories;
+    private int calories;
     private int numPackages;
     private boolean isMax;
 
